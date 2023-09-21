@@ -1,2 +1,2 @@
 # Newsify
-DevOps_Project_1
+AWS_project
